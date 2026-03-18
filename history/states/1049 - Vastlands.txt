@@ -1,0 +1,12 @@
+state = {
+	id = 1049
+	name = "STATE_1049"
+	manpower = 50000
+	state_category = rural
+	history = {
+		owner = VAS
+		add_core_of = VAS
+		victory_points = { 13384 1 }
+	}
+	provinces = { 13384 }
+}

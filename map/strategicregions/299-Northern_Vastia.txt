@@ -1,0 +1,7 @@
+strategic_region = {
+	id = 299
+	name = "STRAT_NODE_NORTH_VASTIA"
+	provinces = {
+		13386 13387
+	}
+}

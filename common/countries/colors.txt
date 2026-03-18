@@ -1,0 +1,4 @@
+VAS = {
+	color = rgb { 128 0 128 }
+	color_ui = rgb { 200 100 200 }
+}

@@ -1,0 +1,6 @@
+l_russian:
+ VAS:0 "Вастия"
+ VAS_DEF:0 "Вастия"
+ VAS_ADJ:0 "Вастийский"
+ STRAT_NODE_NORTH_VASTIA:0 "Северная Вастия"
+ STRAT_NODE_VASTIA:0 "Вастия"
