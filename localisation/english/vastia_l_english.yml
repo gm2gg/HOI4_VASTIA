@@ -1,1 +1,6 @@
-
+l_english:
+ VAS:0 "Vastia"
+ VAS_DEF:0 "Vastia"
+ VAS_ADJ:0 "Vastian"
+ STRAT_NODE_NORTH_VASTIA:0 "North Vastia"
+ STRAT_NODE_VASTIA:0 "Vastia"
